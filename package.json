@@ -2,6 +2,7 @@
   "name": "mock-addon",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
+  "repo": "https://github.com/nicksteffens/ember-cli-addon-docs-mock-addon",
   "keywords": [
     "ember-addon"
   ],
